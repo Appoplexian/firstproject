@@ -1,0 +1,34 @@
+.firstheading{
+    color: "#1b1b1b";
+    font-weight: bold;
+    font-size: 16px;
+}
+.bg-container{
+      
+}
+.head1{
+    font-size: 32px;
+    margin-left: 10px;
+}
+.head3{
+    color: darkslategray;
+    font-size: 22px;
+    margin-left: 20px;
+}
+.image{
+    margin-left:20px ;
+    
+}
+.patient-name{
+    margin-left: 150px;
+}
+.P-name{
+    color: darkgrey;
+    
+}
+hr{
+    
+    border-style: dotted;
+    background-color: black;
+    border-width: 10px;
+  }
