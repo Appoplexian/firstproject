@@ -1,34 +1,73 @@
-.firstheading{
+
+.firstheading {
     color: "#1b1b1b";
     font-weight: bold;
     font-size: 16px;
 }
-.bg-container{
-      
+p{
+    font-weight: bold;
+    font-size: 20px;
 }
-.head1{
+.bg-containers {height:300vh;}
+.line{
+    border-style: dotted;
+    border-width: 1px;
+    margin-left: 30px;
+}
+.medicine_name {
+    font-family: Serif;
+    color: grey;
+}
+.cont{
+    margin-left: 0px;
+}
+.img1 {
+    height: 20vh;
+    
+    margin-left: 0px;
+    border-radius: 800px;
+}
+
+.head1 {
     font-size: 32px;
     margin-left: 10px;
 }
-.head3{
+.olap{
+    color:grey;
+    font-style:italic;
+    font-size: 30px;
+    font-weight: normal;
+}
+.head4 {
+    color: darkslategray;
+    font-size: 22px;
+
+    margin-top: 5px;
+}
+
+.head3 {
     color: darkslategray;
     font-size: 22px;
     margin-left: 20px;
 }
-.image{
-    margin-left:20px ;
-    
+
+.image {
+    margin-left: 20px;
+
 }
-.patient-name{
+
+.patient-details {
     margin-left: 150px;
 }
-.P-name{
+
+.P-name {
     color: darkgrey;
-    
+
 }
-hr{
-    
+
+hr {
+
     border-style: dotted;
-    background-color: black;
-    border-width: 10px;
-  }
+    color: black;
+    border-width: 2px;
+}
