@@ -27,7 +27,16 @@ p{
     margin-left: 0px;
     border-radius: 800px;
 }
-
+.icon{
+    font-size: 150px;
+    margin-top: 50PX;
+    margin-bottom: 50px;
+    margin-left: 20px;
+}
+.icon2{
+    font-size: 30px;
+    margin-right: 10px;
+}
 .head1 {
     font-size: 32px;
     margin-left: 10px;
