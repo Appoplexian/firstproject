@@ -1,0 +1,100 @@
+
+.firstheading {
+    color: "#1b1b1b";
+    font-weight: bold;
+    font-size: 16px;
+}
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.line{
+    border-style: dotted;
+    border-width: 1px;
+    margin-left: 30px;
+}
+.medicine_name {
+    font-family: Serif;
+    color: grey;
+    font-size: 28px;
+}
+.cont{
+    margin-left: 0px;
+}
+.img1 {
+    height: 20vh;
+    
+    margin-left: 0px;
+    border-radius: 800px;
+}
+.icon{
+   font-size: 75px;
+    margin-top: 50PX;
+    margin-bottom: 10px;
+    margin-left: 50px;
+}
+.icon2{
+    font-size: 22px;
+    margin-right: 10px;
+}
+.icon1{
+    font-size: 22px;
+    margin-right: 10px;
+    
+}
+.head1 {
+    font-size: 26px;
+    margin-left: 10px;
+}
+.olap{
+    color:grey;
+    font-style:italic;
+    font-size: 20px;
+    font-weight: normal;
+}
+.head4 {
+    color: darkslategray;
+    font-size: 22px;
+
+    margin-top: 5px;
+}
+.bar{
+    width: 100%;
+    background-color: lightgrey;
+    border-width: 1px;
+    border-style: solid;
+}
+.skillset{
+    text-align: right;
+    color: black;
+    padding-right: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.head3 {
+    color: darkslategray;
+    font-size: 22px;
+    margin-left: 20px;
+}
+
+.image {
+    margin-left: 20px;
+
+}
+
+.patient-details {
+    margin-left: 50px;
+}
+
+.P-name {
+    color: darkgrey;
+
+}
+
+hr {
+
+    border-style: dotted;
+    color: black;
+    border-width: 2px;
+}
